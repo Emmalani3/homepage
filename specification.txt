@@ -1,0 +1,35 @@
+HTML Tags
+    link
+    script
+    title
+    style
+    nav
+    center
+    h1
+    p
+    img
+    footer
+    a href
+    i
+    div
+    form
+    input
+    button
+
+CSS Tags
+    .container
+    .lobster-regular
+    a:hover
+    .image-container
+    .column
+    .row:after
+    div.galelry
+    div.gallery:hover
+    div.desc
+    .responsive
+
+I used javascript to make a resposive gallery on the paper-cards page that
+allows the user to view the images and download buttons in a grid or a list
+
+I also used bootstrap to figure out how to format a nav bar and changed the
+initial design
